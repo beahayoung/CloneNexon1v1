@@ -1,5 +1,5 @@
 # CloneNexon1v1
 넥슨을 타 홈페이지를 클론코딩해서 퍼블리싱 html/css
-적응형 페이지
+적응형 페이지 포트폴리오 용
 
 https://beahayoung.github.io/CloneNexon1v1/
